@@ -1,6 +1,6 @@
 ### Перемещение элемента
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ym1tnda9jkg1ki9b?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/dom-elements)
+[![Build status](https://ci.appveyor.com/api/projects/status/d6lont0iubemruo0?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/dom-elements)
 
 deployment: 
 #### Легенда
