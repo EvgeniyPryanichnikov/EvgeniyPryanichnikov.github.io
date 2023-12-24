@@ -24,9 +24,9 @@
   "author": "EvgeniyPryanichnikov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EvgeniyPryanichnikov/ahj-dom/issues"
+    "url": "https://github.com/EvgeniyPryanichnikov/EvgeniyPryanichnikov.github.io/issues"
   },
-  "homepage": "https://github.com/EvgeniyPryanichnikov/ahj-dom#readme",
+  "homepage": "https://github.com/EvgeniyPryanichnikov/EvgeniyPryanichnikov.github.io#readme",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.3",
