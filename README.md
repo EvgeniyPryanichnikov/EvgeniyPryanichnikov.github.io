@@ -1,8 +1,8 @@
 ### Перемещение элемента
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ym1tnda9jkg1ki9b?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ahj-dom-t447b)
+[![Build status](https://ci.appveyor.com/api/projects/status/ym1tnda9jkg1ki9b?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/dom-elements)
 
-deployment: https://evgeniypryanichnikov.github.io/evgeniypryanichnikov.github.io
+deployment: 
 #### Легенда
 
 Игра на подобие игры, где гномы или другие существа выскакивают из отверстий, и по ним нужно бить молотком:
