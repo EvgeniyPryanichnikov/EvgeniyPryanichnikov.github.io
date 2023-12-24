@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/d6lont0iubemruo0?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/dom-elements)
 
-deployment: 
+deployment: https://evgeniypryanichnikov.github.io/dom-elements/
 #### Легенда
 
 Игра на подобие игры, где гномы или другие существа выскакивают из отверстий, и по ним нужно бить молотком:
